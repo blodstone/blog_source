@@ -1,0 +1,5 @@
+[project]
+name = Ageha
+
+[servers.ghpages]
+target = ghpages://blodstone/blodstone.github.io
